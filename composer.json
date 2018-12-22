@@ -13,8 +13,9 @@
             "role": "Developer"
         }
     ],
-    "require": {
-    },
+  "require": {
+    "composer/installers": "1.*"
+  },
     "autoload": {
         "psr-0": {
             "Monolog": "src"
