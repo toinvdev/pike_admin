@@ -1,0 +1,23 @@
+{
+    "name": "ymabrouk/pike_admin",
+    "type": "library",
+    "description": "Free Bootstrap 4 Admin Template Dashboard",
+    "keywords": ["Bootstrap","Admin Template Dashboar"],
+    "homepage": "https://github.com/ymabrouk/pike_admin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yasser Mabrouko",
+            "email": "",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
